@@ -2,6 +2,20 @@
 
 Lightning Beer Server lets you buy and pour a fixed amount of beer with Lightning payments.
 
+
+## dev
+
+```bash
+npm run dev
+```
+
+## build
+
+```bash
+npm run build:linux
+```
+
+ 
 ```mermaid
 sequenceDiagram
     autonumber
